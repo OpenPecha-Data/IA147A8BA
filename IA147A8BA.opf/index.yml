@@ -1,0 +1,9 @@
+id: 9c5565aedf744875947e37afb3a622cd
+annotation_type: index
+revision: '00001'
+annotations:
+  0b725cbd59f345f4a5fdca1c1437e5f6:
+    base: fCA9F.txt
+    span:
+      start: 0
+      end: 4314
